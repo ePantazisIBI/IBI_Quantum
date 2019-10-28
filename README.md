@@ -1,6 +1,6 @@
 
 # IBIquitous
-![Screenshot](IBI_compGroupLogo-05.png)
+![Screenshot](logoImages/IBI_compGroupLogo-05.png)
 This a repository developed by the Parametric Design of IBI with the intention to create a platform for developing and storing
 a series of computational design tools which can be used across different divisions of the IBI group 
 
