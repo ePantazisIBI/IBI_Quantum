@@ -1,4 +1,4 @@
-
+![Screenshot](IBI_compGroupLogo-05.png)
 ![alt text](https://raw.githubusercontent.com/ePantazisIBI/IBIquitous/logoImages/IBI_compGroupLogo-05.png)
 # IBIquitous
 
