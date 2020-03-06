@@ -1,6 +1,6 @@
 
 
-![Screenshot](logoImages/IBI_compGroupLogo-05.png)
+![Screenshot](logoImages/IBI_Quantum-04.jpg)
 
 # IBIquitous Toolkit
 
