@@ -23,7 +23,7 @@ namespace IBI_toolkit
         public IBItoolkitComponent1()
           : base("Component01", "IBIquitous",
               "A dummy component that calculats the average of two numbers",
-              "IBItoolkit", "Utilities")
+              "IBItoolkit", "Architecture")
         {
         }
 

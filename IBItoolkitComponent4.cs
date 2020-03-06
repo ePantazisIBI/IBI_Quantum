@@ -2,20 +2,19 @@
 using System.Collections.Generic;
 
 using Grasshopper.Kernel;
-using IBI_toolkit.Properties;
 using Rhino.Geometry;
 
 namespace IBI_toolkit
 {
-    public class IBItoolkitComponent2 : GH_Component
+    public class IBItoolkitComponent4 : GH_Component
     {
         /// <summary>
-        /// Initializes a new instance of the IBItoolkitComponent2 class.
+        /// Initializes a new instance of the IBItoolkitComponent5 class.
         /// </summary>
-        public IBItoolkitComponent2()
-          : base("Component2", "IBIquitous",
-              "A set of design Tools for IBI",
-              "IBItoolkit", "Planning")
+        public IBItoolkitComponent4()
+          : base("Component04", "IBIcomp",
+              "A dummy component that calculats the average of two numbers",
+              "IBItoolkit", "Utilities")
         {
         }
 
@@ -24,6 +23,7 @@ namespace IBI_toolkit
         /// </summary>
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
+            pManager.AddGenericParameter("filepath", "fp", "a filepath to where to save the image", GH_ParamAccess.list);
         }
 
         /// <summary>
@@ -31,6 +31,7 @@ namespace IBI_toolkit
         /// </summary>
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
         {
+            pManager.AddGenericParameter("updatedlocalfilepath", "fp", "a filepath to where to save the image", GH_ParamAccess.list);
         }
 
         /// <summary>
@@ -49,8 +50,8 @@ namespace IBI_toolkit
             get
             {
                 //You can add image files to your project resources and access them like this:
-                return Properties.Resources.IBI_ICON01;
-                //return null;
+                // return Resources.IconForThisComponent;
+                return null;
             }
         }
 
@@ -59,7 +60,7 @@ namespace IBI_toolkit
         /// </summary>
         public override Guid ComponentGuid
         {
-            get { return new Guid("ee41724f-2ea8-49d5-8ff5-34444fd22e16"); }
+            get { return new Guid("33e83c27-9edd-4cec-9043-fc0e6621ec55"); }
         }
     }
 }
