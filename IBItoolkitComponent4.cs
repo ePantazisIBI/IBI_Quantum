@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Grasshopper.Kernel;
 using Rhino.Geometry;
 
-namespace IBI_toolkit
+namespace IBItoolkit
 {
     public class IBItoolkitComponent4 : GH_Component
     {

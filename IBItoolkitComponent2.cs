@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 
 using Grasshopper.Kernel;
-using IBI_toolkit.Properties;
+using IBItoolkit.Properties;
 using Rhino.Geometry;
 
-namespace IBI_toolkit
+namespace IBItoolkit
 {
     public class IBItoolkitComponent2 : GH_Component
     {
@@ -39,6 +39,7 @@ namespace IBI_toolkit
         /// <param name="DA">The DA object is used to retrieve from inputs and store in outputs.</param>
         protected override void SolveInstance(IGH_DataAccess DA)
         {
+     
         }
 
         /// <summary>

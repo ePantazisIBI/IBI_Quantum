@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IBI_toolkit.Properties {
+namespace IBItoolkit.Properties {
     using System;
     
     
