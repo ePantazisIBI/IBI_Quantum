@@ -4,3 +4,4 @@ C:\Users\evan.pantazis\source\repos\IBI_toolkit\IBIquitous\obj\Debug\IBI_toolkit
 C:\Users\evan.pantazis\source\repos\IBI_toolkit\IBIquitous\obj\Debug\IBItoolkit.csproj.GenerateResource.cache
 C:\Users\evan.pantazis\source\repos\IBI_toolkit\IBIquitous\obj\Debug\IBI_toolkit.dll
 C:\Users\evan.pantazis\source\repos\IBI_toolkit\IBIquitous\obj\Debug\IBI_toolkit.pdb
+C:\Users\evan.pantazis\source\repos\IBI_toolkit\IBIquitous\obj\Debug\IBItoolkit.csprojAssemblyReference.cache

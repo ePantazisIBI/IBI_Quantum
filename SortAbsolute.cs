@@ -12,8 +12,8 @@ namespace IBItoolkit
         /// Initializes a new instance of the MyComponent1 class.
         /// </summary>
         public SortAbsolute()
-          : base("Sort", "SortAbs",
-              "sort a list of numbers and have the custom option to convert those numbers to absolute values",
+          : base("Sort Absolute", "SortAbs",
+              "Sorts a list of numbers and have the custom option to convert those numbers to absolute values",
               "IBItoolkit", "Utilities")
         {
         }

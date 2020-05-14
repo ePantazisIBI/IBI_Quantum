@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IBItoolkitUnitConverter.cs" />
+    <Compile Include="IBIToolkitTestComp.cs" />
     <Compile Include="IBItoolkitComponent2.cs" />
     <Compile Include="IBItoolkitComponent4.cs" />
     <Compile Include="IBItoolkitInfo.cs" />
