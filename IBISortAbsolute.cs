@@ -119,7 +119,7 @@ namespace IBItoolkit
             {
                 // You can add image files to your project resources and access them like this:
                 //return Resources.IBI_ICON01.png;
-                return IBItoolkit.Properties.Resources.IBI_ICON01;
+                return IBI_toolkit.Properties.Resources.IBI_ICON03;
             }
         }
 

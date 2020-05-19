@@ -18,7 +18,7 @@ namespace IBItoolkit
             get
             {
                 //Return a 24x24 pixel bitmap to represent this GHA library.
-                return IBItoolkit.Properties.Resources.IBI_ICON01;
+                return IBI_toolkit.Properties.Resources.IBI_ICON01;
             }
         }
         public override string Description

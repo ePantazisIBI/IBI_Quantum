@@ -121,4 +121,22 @@
   <data name="IBI_ICON01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\IBI_ICON01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="IBI_ICON02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IBI_ICON03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IBI_ICON04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IBI_ICON05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IBI_ICON06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IBI_ICON07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IBI_ICON07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

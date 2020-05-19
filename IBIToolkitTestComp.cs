@@ -31,9 +31,9 @@ namespace IBItoolkit
         /// new tabs/panels will automatically be created.
         /// </summary>
         public UnitConvTest()
-          : base("UnitConverter", "Unit_Converter",
-              "Scales a value from a source unit to a target unit",
-              "IBItoolkit", "Utilities")
+          : base("Transit Oriented Zoning", "TOZ",
+              "A component that defines zoning based on TOD",
+              "IBItoolkit", "Placemaking")
         {
         }
 
@@ -195,7 +195,7 @@ namespace IBItoolkit
             {
                 // You can add image files to your project resources and access them like this:
                 //return Resources.IBI_ICON01.png;
-                return Properties.Resources.IBI_ICON01;
+                return IBI_toolkit.Properties.Resources.IBI_ICON01;
             }
         }
 

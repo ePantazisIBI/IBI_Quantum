@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 
 using Grasshopper.Kernel;
-using IBItoolkit.Properties;
 using Rhino.Geometry;
 
 namespace IBItoolkit
@@ -50,7 +49,7 @@ namespace IBItoolkit
             get
             {
                 //You can add image files to your project resources and access them like this:
-                return Properties.Resources.IBI_ICON01;
+                return IBI_toolkit.Properties.Resources.IBI_ICON06;
                 //return null;
             }
         }

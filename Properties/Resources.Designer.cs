@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IBItoolkit.Properties {
+namespace IBI_toolkit.Properties {
     using System;
     
     
@@ -66,6 +66,66 @@ namespace IBItoolkit.Properties {
         internal static System.Drawing.Bitmap IBI_ICON01 {
             get {
                 object obj = ResourceManager.GetObject("IBI_ICON01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON02 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON03 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON03", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON04 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON04", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON05 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON05", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON06 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON06", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IBI_ICON07 {
+            get {
+                object obj = ResourceManager.GetObject("IBI_ICON07", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -4,17 +4,17 @@ using System.Collections.Generic;
 using Grasshopper.Kernel;
 using Rhino.Geometry;
 
-namespace IBItoolkit
+namespace IBI_toolkit
 {
-    public class IBItoolkitComponent4 : GH_Component
+    public class MyComponent1 : GH_Component
     {
         /// <summary>
-        /// Initializes a new instance of the IBItoolkitComponent5 class.
+        /// Initializes a new instance of the MyComponent1 class.
         /// </summary>
-        public IBItoolkitComponent4()
-          : base("Component04", "IBIcomp",
-              "A dummy component that calculats the average of two numbers",
-              "IBItoolkit", "Utilities")
+        public MyComponent1()
+          : base("MyComponent1", "Nickname",
+              "Description",
+              "Category", "Subcategory")
         {
         }
 
@@ -23,7 +23,6 @@ namespace IBItoolkit
         /// </summary>
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
-            pManager.AddGenericParameter("filepath", "fp", "a filepath to where to save the image", GH_ParamAccess.list);
         }
 
         /// <summary>
@@ -31,7 +30,6 @@ namespace IBItoolkit
         /// </summary>
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
         {
-            pManager.AddGenericParameter("updatedlocalfilepath", "fp", "a filepath to where to save the image", GH_ParamAccess.list);
         }
 
         /// <summary>
@@ -60,7 +58,7 @@ namespace IBItoolkit
         /// </summary>
         public override Guid ComponentGuid
         {
-            get { return new Guid("33e83c27-9edd-4cec-9043-fc0e6621ec55"); }
+            get { return new Guid("0f114979-f6df-490f-ba8b-fc085e02a566"); }
         }
     }
 }
