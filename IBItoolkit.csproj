@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvexHull.cs" />
+    <Compile Include="IBIConvexHull.cs" />
     <Compile Include="IBIToolkitTestComp.cs" />
     <Compile Include="IBItoolkitComponent2.cs" />
     <Compile Include="IBIFARCalculator.cs" />
@@ -108,6 +110,7 @@
     <Content Include="Resources\IBI_ICON05.png" />
     <Content Include="Resources\IBI_ICON06.png" />
     <Content Include="Resources\IBI_ICON07.png" />
+    <None Include="Resources\IBI_toolkitIcons-08.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
